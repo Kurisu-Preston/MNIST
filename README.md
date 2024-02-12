@@ -1,1 +1,2 @@
 # MNIST
+![Diagram](diagram.png)
